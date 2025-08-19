@@ -27,7 +27,7 @@ I enjoy solving challenging problems, learning new technologies, and applying th
 
 ## GitHub Stats  
 
-![Prasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=default)  
+![Prasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=LVPRASAD7151&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LVPRASAD7151&layout=compact&theme=default)  
 
 ---
